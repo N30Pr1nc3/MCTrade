@@ -1,0 +1,9 @@
+name: MCTrade
+version: 0.1
+author: NeoPrince
+website: http://myralia.de
+main: de.myralia.MCTrade.MCTrade
+commands:
+   item:
+      description: kommandos im zusammenhang mit MCTrade
+      usage: /trade
